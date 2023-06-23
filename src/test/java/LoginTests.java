@@ -12,7 +12,7 @@ public class LoginTests extends BaseTest {
 
 
 
-        
+
 //      Added ChromeOptions argument below to fix websocket error
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
