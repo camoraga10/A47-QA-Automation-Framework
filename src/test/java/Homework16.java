@@ -26,7 +26,6 @@ public class Homework16 {
         String expectedTitle = "Koel - Registration";
         String actualTitle = driver.getTitle();
         Assert.assertEquals(expectedTitle, actualTitle);
-
         // Close the browser
         driver.quit();
     }
