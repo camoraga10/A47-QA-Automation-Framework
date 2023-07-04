@@ -30,6 +30,8 @@ public class LoginTests extends BaseTest {
 
 
 
+
+
     @Test
     public void registrationNavigation() {
         // Set the path to the ChromeDriver executable
